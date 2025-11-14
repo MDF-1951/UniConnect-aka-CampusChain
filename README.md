@@ -24,9 +24,7 @@ A full‑stack university social platform for VIT students with posts, clubs, ev
 10. Security
 11. Cost and Optimization
 12. Challenges & Solutions
-13. Demo Flow
-14. Q&A Prep
-15. .gitignore Recommendations
+13. .gitignore Recommendations
 
 ---
 
