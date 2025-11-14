@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UniConnect
 
 A full‑stack university social platform for VIT students with posts, clubs, events, chat, and an admin dashboard.
@@ -225,22 +226,8 @@ Screenshots are stored under `docs/screenshots/`:
 
 ---
 
-## 13) Demo Flow (Quick)
 
-1) Architecture overview
-2) AWS console walkthrough (EC2, RDS, S3, Amplify)
-3) Live app demo (user + admin)
-4) Technical deep dive (logs, DB, curl)
-
----
-
-## 14) Q&A Prep (Quick)
-
-- Why these AWS services, how to scale, DR, security layers, post‑free‑tier cost, monitoring, deployment steps.
-
----
-
-## 15) .gitignore Recommendations
+## 13) .gitignore Recommendations
 
 ```
 # Node/React
@@ -268,3 +255,6 @@ uploads/
 .DS_Store
 Thumbs.db
 ```
+=======
+# UniConnect-aka-CampusChain
+>>>>>>> 7799bbc77879e347bd6c312689c147582534ca03
